@@ -55,12 +55,13 @@ button{
             <b id="xss"></b>
         </div>
     </div>
-    <script src="/confetti.js"></script>
+    <script src="confetti.js"></script>
 <script>
 function clicked(){
     let payload=document.getElementById('input');
 
   if(payload.value=="6609"){
+       alert("xss done, You Won The Challange ")
       confetti.start()
         setTimeout(() => {
             confetti.stop()
