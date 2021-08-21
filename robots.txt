@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+
+
+I think You Got your First flag ;)
+
+flag{VGhlIHF
+
+
+make_me_laugh.html can give you second flag :)
